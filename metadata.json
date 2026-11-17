@@ -1,0 +1,6 @@
+{
+  "name": "KilnPulse CSV Ingest",
+  "description": "Drag-and-drop CSV upload and schema validation workspace for ceramic tile manufacturing downtime and kiln void logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
